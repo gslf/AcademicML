@@ -2,7 +2,7 @@
 ### Support Vector Machine - linear classification ###
 
 Pegasus classification algorithm implemented in python.
-In this example we use the Iris dataset ([available here](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)).
+In this example we use Penguins dataset ([available here](https://github.com/allisonhorst/palmerpenguins)).
 
 ## Instructions ##
 - Create a python virtual enviroment
@@ -22,7 +22,7 @@ In this example we use the Iris dataset ([available here](https://archive.ics.uc
 	```
 - Run the sample
 	```
-	cd PerceptronLinearClassification
+	cd PegasusSVM
 	python3 main.py
 	```
 
