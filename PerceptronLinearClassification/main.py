@@ -37,7 +37,6 @@ if __name__ == "__main__":
     # Plot data
     plt.scatter(x[:50, 0], x[:50, 1], color='red', marker='o', label='Setosa')
     plt.scatter(x[50:100, 0], x[50:100, 1], color='blue', marker='x',label='Versicolour')
-
     plt.show()
 
     # Features standardization
